@@ -9,3 +9,5 @@
  - для запуска скриптов в терминале в окружении можно вбить ```poetry shell```, а далее вбивать свои команды.
  - для большего списка можно воспользоваться командой ```poetry help```
 
+pip install -r requirements.txt
+streamlit run dashboard.py
